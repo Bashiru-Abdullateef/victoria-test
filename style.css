@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    margin-left: 400px;
+    margin-top: 20px;
+    /* text-decoration: underline; */
+}
+button{
+    /* border-radius: 100px; */
+    border: none;
+    color: white;
+    width: 100px ;
+    height: 40px;
+}
+.movie{
+padding: 20px;
+box-shadow: 1px,2px,;
+}   
